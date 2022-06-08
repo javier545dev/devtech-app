@@ -9,10 +9,42 @@
    inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs23" />
+     id="defs23">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1440">
+      <stop
+         style="stop-color:#d3c333;stop-opacity:1;"
+         offset="0"
+         id="stop1436" />
+      <stop
+         style="stop-color:#d3c333;stop-opacity:0;"
+         offset="1"
+         id="stop1438" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1440"
+       id="linearGradient1442"
+       x1="107.89957"
+       y1="14.910533"
+       x2="108.89957"
+       y2="14.910533"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1440"
+       id="linearGradient2511"
+       gradientUnits="userSpaceOnUse"
+       x1="107.89957"
+       y1="14.910533"
+       x2="108.89957"
+       y2="14.910533" />
+  </defs>
   <sodipodi:namedview
      id="namedview21"
      pagecolor="#ffffff"
@@ -23,23 +55,14 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="6.7066685"
-     inkscape:cx="65.606344"
-     inkscape:cy="12.5994"
+     inkscape:cx="59.493026"
+     inkscape:cy="15.879717"
      inkscape:window-width="1399"
      inkscape:window-height="847"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg19" />
-  <line
-     x1="14.562689"
-     y1="1.1054333"
-     x2="14.562689"
-     y2="28.105433"
-     stroke="#e7ecec"
-     stroke-linecap="round"
-     id="line15"
-     style="fill:#333333" />
   <path
      fill="#e7ecec"
      fill-rule="nonzero"
@@ -47,12 +70,21 @@
      id="path17"
      style="fill:#333333" />
   <line
-     x1="108.39957"
-     y1="1.4105331"
-     x2="108.39957"
-     y2="28.410532"
+     x1="108.36229"
+     y1="1.0377698"
+     x2="108.36229"
+     y2="28.037769"
      stroke="#e7ecec"
      stroke-linecap="round"
      id="line15-3"
-     style="fill:#333333" />
+     style="fill:url(#linearGradient1442);fill-opacity:1;stroke:#000103;stroke-opacity:0.785425" />
+  <line
+     x1="14.612322"
+     y1="1.1481094"
+     x2="14.612322"
+     y2="28.148109"
+     stroke="#e7ecec"
+     stroke-linecap="round"
+     id="line15-3-8"
+     style="fill:url(#linearGradient2511);fill-opacity:1;stroke:#000103;stroke-opacity:0.785425" />
 </svg>

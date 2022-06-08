@@ -9,10 +9,42 @@
    inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs23" />
+     id="defs23">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1440">
+      <stop
+         style="stop-color:#d3c333;stop-opacity:1;"
+         offset="0"
+         id="stop1436" />
+      <stop
+         style="stop-color:#d3c333;stop-opacity:0;"
+         offset="1"
+         id="stop1438" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1440"
+       id="linearGradient1442"
+       x1="107.89957"
+       y1="14.910533"
+       x2="108.89957"
+       y2="14.910533"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1440"
+       id="linearGradient2511"
+       gradientUnits="userSpaceOnUse"
+       x1="107.89957"
+       y1="14.910533"
+       x2="108.89957"
+       y2="14.910533" />
+  </defs>
   <sodipodi:namedview
      id="namedview21"
      pagecolor="#ffffff"
@@ -23,33 +55,36 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="6.7066685"
-     inkscape:cx="65.606344"
-     inkscape:cy="12.5994"
+     inkscape:cx="59.493026"
+     inkscape:cy="15.879717"
      inkscape:window-width="1399"
      inkscape:window-height="847"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg19" />
-  <line
-     x1="14.562689"
-     y1="1.1054333"
-     x2="14.562689"
-     y2="28.105433"
-     stroke="#e7ecec"
-     stroke-linecap="round"
-     id="line15" />
   <path
      fill="#e7ecec"
      fill-rule="nonzero"
      d="M 22.33956,25.230253 V 4.6102535 h 5.69 q 2.21,0 3.31,1.22 1.1,1.23 1.13,3.63 v 0 l 0.05,9.6499995 q 0.02,3.04 -1.06,4.58 -1.08,1.54 -3.58,1.54 v 0 z m 4.15,-3.65 h 0.72 q 1.13,0 1.13,-1.11 v 0 -10.6299995 q 0,-0.69 -0.11,-1.04 -0.11,-0.35 -0.39,-0.47 -0.29,-0.12 -0.89,-0.12 v 0 h -0.46 z m 12.53,3.84 q -2.71,0 -3.89,-1.49 -1.17,-1.49 -1.17,-4.44 v 0 -7.06 q 0,-2.42 1.39,-3.6899995 1.39,-1.27 3.89,-1.27 v 0 q 5.06,0 5.06,4.9599995 v 0 1.28 q 0,1.92 -0.05,3.12 v 0 h -6.09 v 3.4 q 0,0.92 0.19,1.43 0.19,0.52 0.81,0.52 v 0 q 0.48,0 0.69,-0.29 0.2,-0.29 0.24,-0.66 0.03,-0.37 0.03,-1.09 v 0 -1.71 h 4.18 v 1.01 q 0,3.07 -1.19,4.53 -1.19,1.45 -4.09,1.45 z m -0.89,-10.68 h 1.99 v -2.26 q 0,-1.89 -0.93,-1.89 v 0 q -1.06,0 -1.06,1.89 v 0 z m 14.79,10.49 h -4.88 l -2.8,-17.5699995 h 4.2 l 0.86,8.8799995 0.14,2.85 0.17,-2.88 0.96,-8.8499995 h 4.2 z m 9.93,0 h -4.13 V 8.5702535 h -2.44 v -3.96 h 9.02 v 3.96 h -2.45 z m 8.45,0.19 q -2.71,0 -3.89,-1.49 -1.17,-1.49 -1.17,-4.44 v 0 -7.06 q 0,-2.42 1.39,-3.6899995 1.39,-1.27 3.89,-1.27 v 0 q 5.06,0 5.06,4.9599995 v 0 1.28 q 0,1.92 -0.05,3.12 v 0 h -6.09 v 3.4 q 0,0.92 0.19,1.43 0.19,0.52 0.81,0.52 v 0 q 0.48,0 0.69,-0.29 0.2,-0.29 0.24,-0.66 0.03,-0.37 0.03,-1.09 v 0 -1.71 h 4.18 v 1.01 q 0,3.07 -1.19,4.53 -1.19,1.45 -4.09,1.45 z m -0.89,-10.68 h 1.99 v -2.26 q 0,-1.89 -0.93,-1.89 v 0 q -1.06,0 -1.06,1.89 v 0 z m 12.96,10.68 q -2.88,0 -4.15,-1.47 -1.27,-1.46 -1.27,-4.48 v 0 -5.43 q 0,-2.28 0.49,-3.71 0.49,-1.4199995 1.66,-2.1399995 1.16,-0.72 3.22,-0.72 v 0 q 2.26,0 3.68,1.17 1.41,1.18 1.41,3.2899995 v 0 2.69 h -4.27 v -2.47 q 0,-0.7 -0.19,-1.07 -0.19,-0.37 -0.75,-0.37 v 0 q -1.03,0 -1.03,1.46 v 0 8.52 q 0,0.6 0.25,1.02 0.26,0.42 0.76,0.42 v 0 q 0.5,0 0.76,-0.41 0.25,-0.41 0.22,-1.05 v 0 l -0.02,-2.96 h 4.27 v 3.08 q 0,2.16 -1.4,3.39 -1.41,1.24 -3.64,1.24 z m 6.51,-0.19 V 4.4902535 h 4.32 v 4.9 q 0.67,-1.92 2.560004,-1.92 v 0 q 1.78,0 2.69,1.12 0.910006,1.13 0.910006,3.0999995 v 0 13.54 h -4.20001 v -13.28 q 0,-0.57 -0.26,-0.93 -0.26,-0.36 -0.77,-0.36 v 0 q -0.43,0 -0.68,0.37 -0.25,0.37 -0.25,0.9 v 0 13.3 z"
-     id="path17" />
+     id="path17"
+     style="fill:#cccccc" />
   <line
-     x1="108.39957"
-     y1="1.4105331"
-     x2="108.39957"
-     y2="28.410532"
+     x1="108.36229"
+     y1="1.0377698"
+     x2="108.36229"
+     y2="28.037769"
      stroke="#e7ecec"
      stroke-linecap="round"
-     id="line15-3" />
+     id="line15-3"
+     style="fill:url(#linearGradient1442);fill-opacity:1;stroke:#ededed;stroke-opacity:0.80000001" />
+  <line
+     x1="14.612322"
+     y1="1.1481094"
+     x2="14.612322"
+     y2="28.148109"
+     stroke="#e7ecec"
+     stroke-linecap="round"
+     id="line15-3-8"
+     style="fill:url(#linearGradient2511);fill-opacity:1;stroke:#ededed;stroke-opacity:0.80000001" />
 </svg>
