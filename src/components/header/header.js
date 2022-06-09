@@ -31,7 +31,6 @@ export default function Header({ className }) {
               </Link>
             ))}
           </Flex>
-
           <Button
             className="donate__btn"
             variant="secondary"
@@ -39,7 +38,6 @@ export default function Header({ className }) {
           >
             Get Started
           </Button>
-
           <MobileDrawer />
         </Container>
       </header>
