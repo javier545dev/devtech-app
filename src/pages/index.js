@@ -13,6 +13,7 @@ import WorkFlow from "sections/workflow";
 import TestimonialCard from "sections/testimonial";
 import SecurePayment from "sections/secure-payment";
 import Package from "sections/package";
+import Subscribe from "sections/subscribe";
 import Faq from "sections/faq";
 
 export default function IndexPage() {
@@ -20,7 +21,7 @@ export default function IndexPage() {
     <ThemeProvider theme={theme}>
       <StickyProvider>
         <Layout>
-          <SEO title="DevTech" />
+          <SEO title="Paladin" />
           <Banner />
           <KeyFeature />
           <CoreFeature />
@@ -31,6 +32,7 @@ export default function IndexPage() {
           <SecurePayment />
           <Package />
           <Faq />
+          <Subscribe />
         </Layout>
       </StickyProvider>
     </ThemeProvider>

@@ -27,7 +27,7 @@ export default function Footer() {
       </Container>
       <Text sx={styles.footer.copyright}>
         All right reserved - Design & Developed by
-        <Link path="/">DevTech</Link>
+        <Link path="/">Paladin</Link>
       </Text>
     </footer>
   );
