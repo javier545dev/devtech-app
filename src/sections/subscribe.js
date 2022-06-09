@@ -81,8 +81,8 @@ export default function Subscribe() {
               Subscribe for more information
             </Heading>
             <Text as="p" sx={styles.description}>
-              Lorem ipsum dolor sit amet consectetur adipisicing elitsed eiusmod
-              tempor incididunt labore dolore.
+              We will send you a portfolio of our developments and prices
+              according to your needs...
             </Text>
             <form onSubmit={subscribe}>
               <Flex sx={styles.subscribeForm}>
