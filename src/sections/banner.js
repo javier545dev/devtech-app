@@ -10,6 +10,7 @@ import BannerBG from "assets/bannerBg.png";
 import BannerSVG from "assets/background.svg";
 import BannerThumb from "assets/banner-thumb.png";
 
+// /* Importing the images and then creating an array of objects with the image path and title. */
 // import client1 from "assets/sponsor/paypal.svg";
 // import client2 from "assets/sponsor/google.svg";
 // import client3 from "assets/sponsor/dropbox.svg";
@@ -82,7 +83,7 @@ export default function Banner() {
 const styles = {
   banner: {
     overflow: ["hidden", "initial", null, "hidden"],
-    backgroundImage: `url(${BannerSVG})`,
+    backgroundImage: `url(${BannerBG})`,
     backgroundRepeat: `no-repeat`,
     backgroundPosition: "top left",
     backgroundSize: "cover",
