@@ -1,4 +1,4 @@
-## Getting Started
+# Paladin Tech
 
 First, run the development server:
 
@@ -14,4 +14,4 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+To learn more about Next.js, take a look at the following
