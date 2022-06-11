@@ -1,3 +1,4 @@
+/** @jsxRuntime classic */
 /** @jsx jsx */
 import { jsx } from "theme-ui";
 import { Container, Flex, Box, Heading, Text, Image, Button } from "theme-ui";
@@ -52,9 +53,9 @@ export default function Banner() {
             guidelines ever.
           </Text>
           <Flex>
-            {/* <Button variant="whiteButton" aria-label="Get Started">
+            <Button variant="whiteButton" aria-label="Get Started">
               Get Started
-            </Button> */}
+            </Button>
             <>
               <ModalVideo
                 channel="youtube"
@@ -90,6 +91,7 @@ const styles = {
     backgroundColor: "primary",
     container: {
       display: "flex",
+      justifyContent: "center",
     },
     contentBox: {
       width: ["100%", null, "85%", "55%", "50%", "55%"],

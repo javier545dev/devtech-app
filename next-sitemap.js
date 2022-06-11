@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: "https://dev-tech-app.vercel.app",
+  siteUrl: "paladin-tech.netlify.app",
   generateRobotsTxt: true,
   // optional
   // robotsTxtOptions: {

@@ -1,3 +1,4 @@
+/** @jsxRuntime classic */
 /** @jsx jsx */
 import { jsx, Heading, Box, Container, Text } from "theme-ui";
 import { Link } from "components/link";
@@ -26,7 +27,7 @@ export default function Footer() {
       </Container>
       <Text sx={styles.footer.copyright}>
         All right reserved - Design & Developed by
-        <Link path="/">DevTech</Link>
+        <Link path="/">Paladin</Link>
       </Text>
     </footer>
   );

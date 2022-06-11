@@ -1,3 +1,4 @@
+/** @jsxRuntime classic */
 /** @jsx jsx */
 import { jsx, Container, Flex, Button } from "theme-ui";
 import { keyframes } from "@emotion/core";
@@ -30,7 +31,6 @@ export default function Header({ className }) {
               </Link>
             ))}
           </Flex>
-
           <Button
             className="donate__btn"
             variant="secondary"
@@ -38,7 +38,6 @@ export default function Header({ className }) {
           >
             Get Started
           </Button>
-
           <MobileDrawer />
         </Container>
       </header>
