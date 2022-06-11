@@ -7,6 +7,7 @@ import ModalVideo from "react-modal-video";
 import { Link } from "components/link";
 import { FaPlayCircle } from "react-icons/fa";
 import BannerBG from "assets/bannerBg.png";
+import BannerSVG from "assets/background.svg";
 import BannerThumb from "assets/banner-thumb.png";
 
 import client1 from "assets/sponsor/paypal.svg";
@@ -81,7 +82,7 @@ export default function Banner() {
 const styles = {
   banner: {
     overflow: ["hidden", "initial", null, "hidden"],
-    backgroundImage: `url(${BannerBG})`,
+    backgroundImage: `url(${BannerSVG})`,
     backgroundRepeat: `no-repeat`,
     backgroundPosition: "top left",
     backgroundSize: "cover",
