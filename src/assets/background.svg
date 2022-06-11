@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink" style="margin:auto;background:rgba(NaN, NaN, NaN, 0);display:block;z-index:1;position:relative" width="1518" height="700" preserveAspectRatio="xMidYMid" viewBox="0 0 1518 723">
+  xmlns:xlink="http://www.w3.org/1999/xlink" style="margin:auto;background:rgba(NaN, NaN, NaN, 0);display:block;z-index:1;position:relative" width="1518" height="900" preserveAspectRatio="xMidYMid" viewBox="0 0 1518 723">
   <g transform="translate(759,361.5) scale(1,1) translate(-759,-361.5)">
     <linearGradient id="lg-0.42757134690923704" x1="0" x2="1" y1="0" y2="0">
-      <stop stop-color="#1d3f72" offset="0"></stop>
-      <stop stop-color="#0960ab" offset="1"></stop>
-      <stop stop-color="#2495e6" offset="1"></stop>
+      <stop stop-color="rgba(20,94,203,0.27)" offset="0"></stop>
+      <stop stop-color="rgba(17,73,123,0.408)" offset="1"></stop>
+      <stop stop-color="rgba(6,62,230,0.314)))" offset="2"></stop>
     </linearGradient>
     <path d="" fill="url(#lg-0.42757134690923704)" opacity="0.4">
       <animate attributeName="d" dur="11.11111111111111s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0M 0 604.0169552020478Q 379.5 647.7294921299668 759 645.2215127842625T 1518 445.15068392907983L 1518 234.09749647036514Q 1138.5 122.26830544783816 759 117.70120800240197T 0 78.46392777298618Z;M0 0M 0 648.5515554445509Q 379.5 617.8926823597433 759 613.9372887713961T 1518 557.8923786947394L 1518 144.55820354593612Q 1138.5 116.18814460992374 759 111.98020641821576T 0 33.349847102823105Z;M0 0M 0 599.7598288622889Q 379.5 504.38418354962323 759 499.2659578198142T 1518 448.06512521367335L 1518 261.97721353048337Q 1138.5 143.65651571843765 759 139.32452209821452T 0 22.66349140326571Z;M0 0M 0 604.0169552020478Q 379.5 647.7294921299668 759 645.2215127842625T 1518 445.15068392907983L 1518 234.09749647036514Q 1138.5 122.26830544783816 759 117.70120800240197T 0 78.46392777298618Z"></animate>
